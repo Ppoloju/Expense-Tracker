@@ -2,6 +2,8 @@
 
 Manage expenses, monthly budgets, and saving habits with charts and local spending insights. Built during a 3-hour hackathon.
 
+**Live app:** [3hr-expense-tracker.netlify.app](https://3hr-expense-tracker.netlify.app)
+
 ## Features
 
 - Create, read, edit, and delete expenses across five categories
